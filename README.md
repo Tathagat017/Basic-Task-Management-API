@@ -2,6 +2,11 @@
 
 A full-stack task management application built with React TypeScript frontend and FastAPI Python backend.
 
+![image](https://github.com/user-attachments/assets/9c7a5d0d-3ce9-4c12-a97f-66e5246e6858)
+![image](https://github.com/user-attachments/assets/628cae2f-e26e-47aa-bd1d-0690570d626b)
+
+
+
 ## 🚀 Features
 
 - **Create Tasks**: Add new tasks with title and description
